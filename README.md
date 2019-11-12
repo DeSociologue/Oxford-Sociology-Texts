@@ -1,4 +1,4 @@
-# Oxford-Sociology-Texts
+# Oxford Sociology Texts
 Reading texts of MSc and MPhil courses, Department of Sociology, Oxford University, 2019/2020.
 
 The article is posted on my [website](https://sociologist.xyz/niu-jin-she-hui-xue-shuo-shi-ke-cheng-yue-du-cai-80cda513) (in Chinese) and includes introductions of each course and a summary at the end which omitted here.
